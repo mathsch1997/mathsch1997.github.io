@@ -22,4 +22,5 @@ Publications
 3. [Kohayakawa-Nagle-Rödl-Schacht conjecture for subdivisions](https://arxiv.org/abs/2407.10861) (with Yupeng Lin and [Jie Ma](http://staff.ustc.edu.cn/~jiema/)), submitted.
 4. [Maximizing alternating paths via entropy](https://arxiv.org/abs/2505.03903) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 5. [On alternating 6-cycles in edge-coloured graphs](https://arxiv.org/abs/2505.09809) (with [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
+6. [On tournament anti-Sidorenko orientations of trees](https://arxiv.org/abs/2605.14138) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 
