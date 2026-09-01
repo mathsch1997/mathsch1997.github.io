@@ -20,7 +20,7 @@ Publications
 1. [A property on monochromatic copies of graphs containing a triangle](https://epubs.siam.org/doi/abs/10.1137/23M1564894?journalCode=sjdmec) (with [Jie Ma](http://staff.ustc.edu.cn/~jiema/)), SIAM J. Discrete Math. 38(1) 2024, 316–326.
 2. [Undecidability of polynomial inequalities in tournaments](https://doi.org/10.1093/imrn/rnaf131) (with Yupeng Lin, [Jie Ma](http://staff.ustc.edu.cn/~jiema/) and [Fan Wei](https://sites.google.com/view/fan-wei/home)), Int. Math. Res. Not., Volume 2025, Issue 11, June (2025), rnaf131.
 3. [On alternating 6-cycles in edge-coloured graphs](https://doi.org/10.37236/14204) (with [Jonathan A. Noel](https://jonathannoel.ca/)), Electron. J. Combin., Volume 33, Issue 3 (2026), #P3.27.
-4. [Kohayakawa-Nagle-Rödl-Schacht conjecture for subdivisions](https://arxiv.org/abs/2407.10861) (with Yupeng Lin and [Jie Ma](http://staff.ustc.edu.cn/~jiema/)), submitted.
+4. [Kohayakawa-Nagle-Rödl-Schacht conjecture for subdivisions](https://arxiv.org/abs/2407.10861) (with Yupeng Lin and [Jie Ma](http://staff.ustc.edu.cn/~jiema/)), SIAM J. Discrete Math, to appear.
 5. [Maximizing alternating paths via entropy](https://arxiv.org/abs/2505.03903) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 6. [On tournament anti-Sidorenko orientations of trees](https://arxiv.org/abs/2605.14138) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 
