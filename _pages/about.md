@@ -23,4 +23,4 @@ Publications
 4. [Kohayakawa-Nagle-Rödl-Schacht conjecture for subdivisions](https://arxiv.org/abs/2407.10861) (with Yupeng Lin and [Jie Ma](http://staff.ustc.edu.cn/~jiema/)), SIAM J. Discrete Math, to appear.
 5. [Maximizing alternating paths via entropy](https://arxiv.org/abs/2505.03903) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 6. [On tournament anti-Sidorenko orientations of trees](https://arxiv.org/abs/2605.14138) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
-
+7. [Oriented paths with few direction flips are tournament anti-Sidorenko](https://arxiv.org/abs/2609.14655) (with Yupeng Lin), submitted.
