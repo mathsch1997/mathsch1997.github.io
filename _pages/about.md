@@ -24,4 +24,4 @@ Publications
 5. [Maximizing alternating paths via entropy](https://arxiv.org/abs/2505.03903) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 6. [On tournament anti-Sidorenko orientations of trees](https://arxiv.org/abs/2605.14138) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 7. [Oriented paths with few direction flips are tournament anti-Sidorenko](https://arxiv.org/abs/2609.14655) (with Yupeng Lin), submitted.
-8. [Elementary Proofs of Commonality of the House Graph and $K_4$ with One Edge Subdivided](https://arxiv.org/abs/2610.20149) (solo paper), submitted.
+8. [Elementary proofs of commonality of the house graph and $K_4$ with one edge subdivided](https://arxiv.org/abs/2610.20149) (solo paper), submitted.
