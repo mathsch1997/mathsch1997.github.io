@@ -25,3 +25,4 @@ Publications
 6. [On tournament anti-Sidorenko orientations of trees](https://arxiv.org/abs/2605.14138) (with [Felix Christian Clemen](https://sites.google.com/view/felix-christian-clemen/) and [Jonathan A. Noel](https://jonathannoel.ca/)), submitted.
 7. [Oriented paths with few direction flips are tournament anti-Sidorenko](https://arxiv.org/abs/2609.14655) (with Yupeng Lin), submitted.
 8. [Elementary proofs of commonality of the house graph and $K_4$ with one edge subdivided](https://arxiv.org/abs/2610.20149) (solo paper), submitted.
+9. [An entropy proof of the commonality of apices of trees](https://arxiv.org/abs/2610.29469) (solo paper), submitted.
